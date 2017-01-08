@@ -177,3 +177,8 @@ nav ul li {
 .contact-form .submit-button:hover {
 	background-color: #33AAFF;
 }
+
+p.error-message {
+	color: #F00;
+	font-size: 1rem;
+}
